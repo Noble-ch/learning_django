@@ -4,5 +4,5 @@ This repository contains my learning journey and code examples for Django, a hig
 Prerequisites
 Before diving into Django, ensure you have the following installed:
 
-Python (version X.X.X)
-Django (version X.X.X)
+Python (version 3.11)
+Django (version 4.2.3)
